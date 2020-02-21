@@ -1,0 +1,2 @@
+# testprgm
+fromself
